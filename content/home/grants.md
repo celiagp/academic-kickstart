@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
+title = "Grants"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,4 +15,8 @@ weight = 60
 
 +++
 
-Under construction. Available soon.
++ __Travel Grant__, KI Travel Grant, June 2018 (*8,000 SEK*)
+
++ __Travel Grant__, KTH Foundation for Science and Education, May 2018 (*8,400 SEK*)
+
++ __Travel Grant__, Svenska Matematikersamfundet from the Knut and Alice Wallenberg Foundation, May 2018 (*4,000 SEK*)
