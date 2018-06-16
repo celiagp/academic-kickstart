@@ -59,13 +59,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Karolinska Institutet", url = "https://ki.se/en/people/celgar" }, {name="KTH Royal Institute of Technology", url="https://www.kth.se/profile/celiagp/"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  email = "celiagp@kth.se, celia.garcia.pareja@ki.se"
+  address = "Lindstedtsvägen 25, Room 3413, KTH Royal Institute of Technology, Stockholm, SE-10044, Sweden"
+  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
   skype = "echo123"
   telegram = ""
@@ -119,7 +119,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
