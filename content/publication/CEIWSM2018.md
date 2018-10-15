@@ -18,7 +18,7 @@ authors = ["Celia García-Pareja","Matteo Bottai"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the 33rd Intenational Workshop on Statistical Modelling"
+publication = "Proceedings of the 33rd International Workshop on Statistical Modelling"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/IWSM65_paper.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
